@@ -9,6 +9,7 @@ organizirati i omogućiti bolje upravljanje istima. Do sada je za vođenje evide
 organizaciju poslova koristila excel tablice i ručno pisanje u bilježnice. Kako sada ima više
 zaposlenika i puno više klijenata potrebno joj je rješenje kojim će dobiti uvid u sve postojeće
 zaposlenike i klijente, ali i olakšati komunikaciju s obje strane.
+
 Trenutno je u obrtu zaposleno 5 radnika, od toga je jedna vlasnica, a ostali zaposlenici
 obavljaju usluge čišćenja. Proces koji se provodi u obrtu kreće pozivom od strane klijenta.
 Sve upite od strane klijenta rješava vlasnica, ona prilikom poziva daje informacije o mogućim
@@ -20,19 +21,22 @@ kreira raspored, svakom zaposleniku javlja koje usluge, u koje vrijeme i gdje tr
 Raspored im šalje na tjednoj bazi, ali uvijek postoji mogućnost promjene. Planiranje ovog
 procesa iziskuje puno vremena, veliku koncentraciju i upravljanje velikom količinom
 podataka, što dovodi do pogrešaka, stresa i mogućnosti gubitka klijenata.
+
 Cilj softvera je pomoći vlasnici, ali i radnicima u organizaciji i praćenju rada. Vlasnica želi
 imati uvid u sve svoje trenutne zaposlenike, ali isto tako želi mogućnost dodavanja
 zaposlenika ako će za to imati potrebe. Također vlasnica mora imati evidenciju svih svojih
 trenutnih klijenata, njihove kontakt podatke i lokaciju na kojoj se obavlja usluga. Za neke
 klijente usluge čišćenja obavljaju se uvijek na istoj lokaciji, a neki klijenti usluge koriste za
 više lokacija.
+
 Samo dogovaranje usluge ostaje isto, odnosno vlasnica i dalje želi obavljati razgovor i sama
 prosuditi koje usluge klijent treba. Nakon što donese odluku želi u sustavu evidentirati koja
 vrsta usluge je potrebna, za kojeg klijenta, termin obavljanja usluge i pridružiti zadatku
 zaposlenika/e koji će uslugu obavljati. Prilikom evidentiranja potrebna je mogućnost pretrage
 slobodnih termina i slobodnih zaposlenika.
+
 Usluge čišćenja se mogu podijeliti u nekoliko kategorija i potkategorija:
-1. Redovito čišćenje 1.1. čišćenje stambenih i poslovnih prostora
+1. Redovito čišćenje 1.1. | čišćenje stambenih i poslovnih prostora
 1.2. čišćenje apartmana
 1.3. čišćenje i održavanje stubišta
 2. Generalno čišćenje 2.1. generalno čišćenje stambenih i poslovnih prostora
