@@ -39,7 +39,7 @@ Usluge čišćenja se mogu podijeliti u nekoliko kategorija i potkategorija:
 1. Redovito čišćenje 
   1.1.  čišćenje stambenih i poslovnih prostora 
   
-  1.2. čišćenje apartmana 
+         1.2. čišćenje apartmana 
   1.3. čišćenje i održavanje stubišta
 2. Generalno čišćenje  2.1. generalno čišćenje stambenih i poslovnih prostora
 2.2. generalno čišćenje nakon radova
