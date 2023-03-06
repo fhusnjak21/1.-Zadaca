@@ -87,6 +87,6 @@ Specifikacija treba sadržavati minimalno:
 
 
 
-Ime i prezime | E-mail adresa (FOI) | JMBAG | Github korisničko ime
-------------  | ------------------- | ----- | ---------------------
-Filip Husnjak | fhusnjak21@foi.hr | 0016154201 | fhusnjak21
+Ime i prezime | E-mail adresa (FOI) 
+------------  | ------------------- 
+Filip Husnjak | fhusnjak21@foi.hr 
