@@ -36,12 +36,13 @@ zaposlenika/e koji će uslugu obavljati. Prilikom evidentiranja potrebna je mogu
 slobodnih termina i slobodnih zaposlenika.
 
 Usluge čišćenja se mogu podijeliti u nekoliko kategorija i potkategorija:
-1. Redovito čišćenje 1.1. | čišćenje stambenih i poslovnih prostora 1.2. čišćenje apartmana 1.3. čišćenje i održavanje stubišta
-------------  | --------------------------------
-2. Generalno čišćenje | 2.1. generalno čišćenje stambenih i poslovnih prostora
+1. Redovito čišćenje 
+  1.1.  čišćenje stambenih i poslovnih prostora 
+  1.2. čišćenje apartmana 
+  1.3. čišćenje i održavanje stubišta
+2. Generalno čišćenje  2.1. generalno čišćenje stambenih i poslovnih prostora
 2.2. generalno čišćenje nakon radova
 2.3. generalno čišćenje pojedinih prostorija
-------------  | --------------------------------
 3. Kemijsko čišćenje 3.1. kemijsko čišćenje tapeciranog namještaja
 3.2. kemijsko čišćenje tepiha
 4. Čišćenje vanjskih površina i objekata
