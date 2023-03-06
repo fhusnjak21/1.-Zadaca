@@ -46,7 +46,7 @@ Usluge čišćenja se mogu podijeliti u nekoliko kategorija i potkategorija:
 3. Kemijsko čišćenje 3.1. kemijsko čišćenje tapeciranog namještaja
 3.2. kemijsko čišćenje tepiha
 4. Čišćenje vanjskih površina i objekata
-5. 
+
 Bitna mogućnost koju vlasnica očekuje je automatizacija komunikacije zadataka
 zaposlenicima. Umjesto slanja tablice s tjednim rasporedom zadataka svakom zaposleniku i
 dodatno obavještavanje ako je došlo do promjene, vlasnica želi da se raspored automatski
