@@ -84,10 +84,3 @@ Specifikacija treba sadržavati minimalno:
 ● 2 nefunkcionalna zahtjeva, od toga minimalno:
 ○ 1 zahtjev u domeni izgleda softvera
 ○ 1 zahtjev u bilo kojoj drugoj domeni
-
-
-
-Ime i prezime | E-mail adresa (FOI) 
-------------  | ------------------- 
-Filip Husnjak | fhusnjak21@foi.hr 
-                   | fhusnjak21@foi.hr 
