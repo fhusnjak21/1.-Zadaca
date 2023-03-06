@@ -46,6 +46,7 @@ Usluge čišćenja se mogu podijeliti u nekoliko kategorija i potkategorija:
 3. Kemijsko čišćenje 3.1. kemijsko čišćenje tapeciranog namještaja
 3.2. kemijsko čišćenje tepiha
 4. Čišćenje vanjskih površina i objekata
+5. 
 Bitna mogućnost koju vlasnica očekuje je automatizacija komunikacije zadataka
 zaposlenicima. Umjesto slanja tablice s tjednim rasporedom zadataka svakom zaposleniku i
 dodatno obavještavanje ako je došlo do promjene, vlasnica želi da se raspored automatski
@@ -57,6 +58,7 @@ zaposlenika i poboljšala procjenu potrebnog vremena za obavljanje pojedine uslu
 želi da svaki zaposlenik prijavi kada je krenuo s izvođenjem radova i kada je završio s istim.
 Zaposlenici svom rasporedu mogu pristupiti u bilo kojem trenutku prilikom čega je raspored
 uvijek točan s obzirom na trenutno zakazane usluge.
+
 Određene usluge, kao što je čišćenje trosjeda u nečijem domu, dogovaraju se jednokratno,
 odnosno zakazuje se jedan termin. Postoje i usluge koje se dogovore na duži vremenski
 period i ponavljaju se s određenim vremenskim razmakom. Kao primjer vlasnica navodi
@@ -64,12 +66,14 @@ period i ponavljaju se s određenim vremenskim razmakom. Kao primjer vlasnica na
 izbjeglo pojedinačno upisivanje čišćenja za svaki mjesec, ili svaka tri mjeseca, vlasnica želi
 opciju automatskog definiranja zadataka s određenim vremenskim razmakom između
 svakog.
+
 Kako bi se unaprijedila komunikacija s klijentima i izbjegle situacije u kojima klijent zaboravi
 na dogovorenu uslugu potrebno je omogućiti automatsko slanje podsjetnika klijentima dan
 prije dogovorenog datuma obavljanja usluge.
 Osim što bi ovaj softver poboljšao organizaciju i rad obrta za čišćenje, različitim izvještajima
 dao bi uvid u količinu obavljenog posla, povećanje posla i broja klijenata, točniju procjenu
 vremena potrebnog za obavljanje određene vrste usluge i napretka u radu zaposlenika.
+
 OBVEZNI ELEMENTI SPECIFIKACIJE
 Specifikacija treba sadržavati minimalno:
 ● 8 funkcionalnih zahtjeva, od toga minimalno:
